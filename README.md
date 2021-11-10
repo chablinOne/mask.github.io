@@ -1,1 +1,2 @@
-# mask.github.io
+# Atlas-jekyll-theme
+![Preview](./atlas-normal.png)
